@@ -1,0 +1,1 @@
+ /home/gaurav/grappus/flutter-demo-test/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /home/gaurav/grappus/flutter-demo-test/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /home/gaurav/grappus/flutter-demo-test/l10n.yaml /home/gaurav/grappus/flutter-demo-test/lib/src/localization/app_en.arb
